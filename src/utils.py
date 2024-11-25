@@ -13,7 +13,6 @@ import pathlib
 import seaborn
 import sklearn
 import time
-import urllib
 import zipfile
 
 # pandas setting
