@@ -1,5 +1,10 @@
-pandas
-scikit-learn
 joblib
 imblearn
+matplotlib
+pandas
+pathlib
+scikit-learn
+seaborn
 time
+urllib
+zipfile
